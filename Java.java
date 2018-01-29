@@ -3,7 +3,5 @@ public class Java {
         System.out.println("dumbest class ever");
     }
 
-    private void dumbMethod() {
-        System.out.println("this is a dumb unused method");
-    }
+    // method was deleted
 }
